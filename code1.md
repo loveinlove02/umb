@@ -14,7 +14,7 @@
 #define WIFI_SSID "soft"
 #define WIFI_PASSWORD "ss2420052"
 
-#define API_KEY "AIzaSyCWJ3HGPA6KrG9zhm_eYbFroM7NNs1wjeo"
+#define API_KEY "key"
 #define DATABASE_URL "https://sw02-7ded6.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 #define USER_EMAIL "softplay008@gmail.com"
