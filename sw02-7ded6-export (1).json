@@ -1,0 +1,50 @@
+{
+  "umbrella": {
+    "u_001": {
+      "borrow_date": "\"aNOb\"",
+      "borrow_state": "\"aNb\"",
+      "case_id": "acase_001b",
+      "lock_state": "1",
+      "u_id": "53AB44AE01BA00",
+      "umbrella_id": "u_001",
+      "user_id": "\"aNOb\""
+    },
+    "u_002": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "case_id": "acase_002b",
+      "lock_state": "1",
+      "u_id": "538220AD011600",
+      "umbrella_id": "u_002",
+      "user_id": "aNOb"
+    }
+  },
+  "umbrella_gate": {
+    "gate_state": "\"aNb\""
+  },
+  "umbrella_list": {
+    "u_001": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "u_id": "53AB44AE01BA00",
+      "umbrella_id": "u_001",
+      "user_number": "aNOb"
+    },
+    "u_002": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "u_id": "538220AD011600",
+      "umbrella_id": "u_002",
+      "user_number": "aNOb"
+    }
+  },
+  "umbrella_state_change": {
+    "scan_id": "aNb",
+    "sensor": "aNb"
+  },
+  "umbrella_uid": {
+    "538220AD011600": "u_002",
+    "538B6427014900": "u_003",
+    "53AB44AE01BA00": "u_001"
+  }
+}
