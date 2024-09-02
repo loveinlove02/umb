@@ -1,0 +1,84 @@
+{
+  "umbrella_cnt": {
+    "cnt": "3"
+  },
+  "umbrella_gate": {
+    "gate_state": "\"aYb\""
+  },
+  "umbrella_list": {
+    "u_001": {
+      "borrow_date": "aNOb",
+      "borrow_state": "\"aNb\"",
+      "u_id": "53AB44AE01BA00",
+      "umbrella_id": "u_001",
+      "user_number": "aNOb"
+    },
+    "u_002": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "u_id": "538220AD011600",
+      "umbrella_id": "u_002",
+      "user_number": "aNOb"
+    },
+    "u_003": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "u_id": "538B6427014900 ",
+      "umbrella_id": "u_003",
+      "user_number": "aNOb"
+    },
+    "u_005": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "u_id": "53125489019000",
+      "umbrella_id": "u_005",
+      "user_number": "aNOb"
+    }
+  },
+  "umbrella_lists": {
+    "53A34408019B00": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "53A34408019B00",
+      "umbrella_name": "우산_1",
+      "user_number": "aNOb"
+    },
+    "53DA658C01FA00": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "53DA658C01FA00",
+      "umbrella_name": "우산_3",
+      "user_number": "aNOb"
+    },
+    "53F3042201BB00": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "53F3042201BB00",
+      "umbrella_name": "우산_2",
+      "user_number": "aNOb"
+    }
+  },
+  "umbrella_member": {
+    "user01": {
+      "id": "user01",
+      "name": "홍길동",
+      "phone": "01012345678",
+      "pw": "1234"
+    },
+    "user05": {
+      "id": "\"user05\"",
+      "name": "\"김윤정\"",
+      "phone": "\"01096869998\"",
+      "pw": "\"1234\""
+    }
+  },
+  "umbrella_temp_name": {
+    "temp_name": "53DA658C01FA00"
+  },
+  "umbrella_uid": {
+    "53125489019000": "u_005",
+    "538220AD011600": "u_002",
+    "538B6427014900": "u_003",
+    "53AB44AE01BA00": "u_001"
+  }
+}
