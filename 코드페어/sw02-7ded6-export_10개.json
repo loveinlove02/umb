@@ -1,0 +1,103 @@
+{
+  "umbrella_cnt": {
+    "cnt": "5"
+  },
+  "umbrella_gate": {
+    "gate_state": "\"aNb\""
+  },
+  "umbrella_lists": {
+    "5342518301A000": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "5342518301A000",
+      "umbrella_name": "우산_1",
+      "user_number": "aNOb"
+    },
+    "538B10AC019D00": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "538B10AC019D00",
+      "umbrella_name": "우산_3",
+      "user_number": "aNOb"
+    },
+    "539B4005010E00": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "539B4005010E00",
+      "umbrella_name": "우산_4",
+      "user_number": "aNOb"
+    },
+    "53D3542601BD00": {
+      "borrow_date": "\"2024년 04월 09일 02시36분40 오후\"",
+      "borrow_state": "\"aYb\"",
+      "uid": "53D3542601BD00",
+      "umbrella_name": "우산_5",
+      "user_number": "\"01012345678\""
+    },
+    "53DB1084018D00": {
+      "borrow_date": "\"2024년 04월 09일 02시37분45 오후\"",
+      "borrow_state": "\"aYb\"",
+      "uid": "53DB1084018D00",
+      "umbrella_name": "우산_2",
+      "user_number": "01098659898"
+    },
+    "539A0126014200": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "539A0126014200",
+      "umbrella_name": "우산_6",
+      "user_number": "aNOb"
+    },
+    "531A6125018900": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "531A6125018900",
+      "umbrella_name": "우산_7",
+      "user_number": "aNOb"
+    },
+    "538A2105011900": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "538A2105011900",
+      "umbrella_name": "우산_8",
+      "user_number": "aNOb"
+    },
+    "531A052601A200": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "531A052601A200",
+      "umbrella_name": "우산_9",
+      "user_number": "aNOb"
+    },
+    "53D26487012900": {
+      "borrow_date": "aNOb",
+      "borrow_state": "aNb",
+      "uid": "53D26487012900",
+      "umbrella_name": "우산_10",
+      "user_number": "aNOb"
+    }
+  },
+  "umbrella_member": {
+    "user01": {
+      "id": "user01",
+      "name": "홍길동",
+      "phone": "01012345678",
+      "pw": "1234"
+    },
+    "user02": {
+      "id": "\"user02\"",
+      "name": "\"이윤경\"",
+      "phone": "\"01098659898\"",
+      "pw": "\"1234\""
+    },
+    "user05": {
+      "id": "\"user05\"",
+      "name": "\"김윤정\"",
+      "phone": "\"01096869998\"",
+      "pw": "\"1234\""
+    }
+  },
+  "umbrella_temp_name": {
+    "temp_name": "53D3542601BD00"
+  }
+}
